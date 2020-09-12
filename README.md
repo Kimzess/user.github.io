@@ -1,2 +1,2 @@
-# user.github.io
+# user
 okay!
